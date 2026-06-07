@@ -1,0 +1,8 @@
+{
+  "time": 2,
+  "space": 256,
+  "language": "Python 3",
+  "input_format": "First line N K; second line N frequencies",
+  "output_format": "Maximum number of Harmonic Movements, or -1 if impossible",
+  "constraints": { "N": "1 to 100000", "K": "2 to 50", "A_i": "1 to 1e9" }
+}
